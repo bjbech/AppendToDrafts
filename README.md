@@ -4,7 +4,7 @@ Create a Markdown style link from a Safari tab and append it to a Drafts.app lis
 
 ## Set Up Instructions
 1. Place AppleScript in `~/Library/Scripts/Applications/Safari` to access from the Script Menu while in Safari
-2. Copy Drafts.app draft UUID and replace it in the `x-callback-url` on line 8 where is says `UUID-TO-VALID-DRAFT`.
+2. Copy Drafts.app draft UUID and replace it in the `x-callback-url` on line 8 where is says `UUID-TO-VALID-DRAFT`.  
 ![image](https://user-images.githubusercontent.com/45978702/99462626-15f54100-2902-11eb-9a62-be0b4191f708.png)
 
 ## Notes 
